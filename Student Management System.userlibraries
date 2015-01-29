@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Student Management System">
+    <archive path="C:/Documents and Settings/Nibras/My Documents/Dropbox/Eclipse/APIIT/Student Management System/forms-1.3.0.jar" />
+    <archive path="C:/Documents and Settings/Nibras/My Documents/Dropbox/Eclipse/APIIT/Student Management System/forms-1.3.0-src.zip" />
+    <archive path="C:/Documents and Settings/Nibras/My Documents/Dropbox/Eclipse/APIIT/Student Management System/joda-time-2.1-javadoc.jar" />
+    <archive path="C:/Documents and Settings/Nibras/My Documents/Dropbox/Eclipse/APIIT/Student Management System/joda-time-2.1.jar" />
+    <archive path="C:/Documents and Settings/Nibras/My Documents/Dropbox/Eclipse/APIIT/Student Management System/joda-time-2.1-sources.jar" />
+    <archive path="C:/Documents and Settings/Nibras/My Documents/Dropbox/Eclipse/APIIT/Student Management System/opencsv-2.3.jar" />
+  </library>
+</eclipse-userlibraries>
+

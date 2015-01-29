@@ -1,0 +1,28 @@
+public static void main(String... strings) {
+
+		JFrame frame = new JFrame();
+
+		
+		PersonalDetails testCase = new PersonalDetails("Nibras", "Reeza",
+				Gender.Male, DoB);
+
+		PanelPersonalDetailsViewModel testModel = new PanelPersonalDetailsViewModel(
+				testCase);
+
+		PanelPersonalDetails test = new PanelPersonalDetails(testModel);
+
+		frame.add(test);
+		frame.pack();
+		frame.setVisible(true);
+		test.present();
+		//test.clear();
+
+		Scanner s = new Scanner(System.in);
+
+		if (s.nextInt() == 10) {
+			//
+			test.updateModel();
+			System.out.println(testModel.validate());
+			// System.out.println(testModel.toObject());
+		}
+	}

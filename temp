@@ -1,0 +1,15 @@
+case LOGIN:
+			
+			break;
+		case NEW_STUDENT:
+			
+			break;
+		case ADD_MARK:
+			break;
+		case NEW_LECTURER:
+			
+			break;
+
+	
+		
+		
